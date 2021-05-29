@@ -49,7 +49,7 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/linux_repo"),
+                        InlineKeyboardButton("Support Group", url="https://t.me/viral_hot1"),
                         InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")
                     ],
                     [
@@ -320,7 +320,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://github.com/AbirHasan2005/PyroFilesStoreBot")
+                                             url="https://t.me/viral_hot1")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -337,7 +337,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/linux_repo"),
+                        InlineKeyboardButton("Support Group", url="https://t.me/viral_hot1"),
                         InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")
                     ],
                     [
@@ -389,7 +389,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/linux_repo"),
+                        InlineKeyboardButton("Support Group", url="https://t.me/viral_hot1),
                         InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")
                     ],
                     [
